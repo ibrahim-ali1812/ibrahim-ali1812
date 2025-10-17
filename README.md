@@ -1,5 +1,5 @@
 <h1 align="center">I'm Ibrahim Ali</h1>
-<h2 align="center">.NET Developer</h2>
+<h2 align="center">Backend .NET Developer</h2>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
