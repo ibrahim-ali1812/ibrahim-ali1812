@@ -3,7 +3,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,git,postman,grafana"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,git,grafana"/>
   </p>
 
   <p align="left">
